@@ -3,6 +3,14 @@
 <!--
 **a-wilkinson95/a-wilkinson95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Location: Oxford, UK
+
+My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
+
+Previous Coding Experience: Repeatedly Calling IT
+
+What I Hope to Get From This Course: A faster way to match FlowSOM clusters to their likely cell type.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
